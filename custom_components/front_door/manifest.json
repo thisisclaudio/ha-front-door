@@ -3,7 +3,9 @@
   "name": "Front Door",
   "version": "0.1.0",
   "documentation": "https://github.com/thisisclaudio/ha-front-door",
-  "requirements": [],
+  "requirements": [
+    "pyserial>=3.5"
+  ],
   "codeowners": ["@thisisclaudio"],
   "config_flow": true,
   "integration_type": "device"
