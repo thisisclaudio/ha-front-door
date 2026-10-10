@@ -2,7 +2,9 @@
   "domain": "front_door",
   "name": "Front Door",
   "version": "0.1.0",
-  "documentation": "https://github.com/thisisclaudio/front-door",
+  "documentation": "https://github.com/thisisclaudio/ha-front-door",
   "requirements": [],
-  "codeowners": []
+  "codeowners": ["@thisisclaudio"],
+  "config_flow": true,
+  "integration_type": "device"
 }
