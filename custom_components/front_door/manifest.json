@@ -1,0 +1,8 @@
+{
+  "domain": "front_door",
+  "name": "Front Door",
+  "version": "0.1.0",
+  "documentation": "https://github.com/thisisclaudio/front-door",
+  "requirements": [],
+  "codeowners": []
+}
